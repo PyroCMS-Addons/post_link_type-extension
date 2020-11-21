@@ -4,6 +4,9 @@ A Post link type for the Navigation module.
 
 This will give your users the option to add items from the Posts module to your navigation.
 
+![Post Link Type Image](ghimages/post_link_type_poster.png)
+
+
 #### Version 1.0.0
 
 *thrive.extension.post_link_type*
